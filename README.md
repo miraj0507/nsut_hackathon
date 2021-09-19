@@ -1,1 +1,0 @@
-# nsut_hackathon
